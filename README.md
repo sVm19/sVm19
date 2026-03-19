@@ -8,12 +8,6 @@
   <img src="https://komarev.com/ghpvc/?username=svm19&label=PROFILE%20VIEWS&color=20232a&style=plastic" alt="svm19" /> 
 </p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=svm19&theme=flat&no-frame=true&no-bg=true&margin-w=15&column=6" alt="trophies" />
-  </a>
-</p>
-<p align="left"> <a href="https://twitter.com/suvm19" target="blank"><img src="https://img.shields.io/twitter/follow/suvm19?logo=twitter&style=for-the-badge" alt="@suvm19" /></a> </p>
 
 | <br/> **DEPLOYMENT & FOCUS** <br/> |
 | :--- |
@@ -24,8 +18,17 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/suvm19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@suvm19" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shubham-kumar-528099213" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubham-kumar-528099213" height="30" width="40" /></a>
+  <a href="https://twitter.com/suvm19" target="blank">
+    <img src="https://img.shields.io/static/v1?label=&message=X%20/%20Twitter&color=000000&style=social&logo=x" alt="suvm19" height="32" />
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/shubham-kumar-528099213" target="blank">
+    <img src="https://img.shields.io/static/v1?label=&message=LinkedIn&color=0077B5&style=social&logo=linkedin" alt="shubham-kumar-528099213" height="32" />
+  </a>
+  &nbsp;
+  <a href="mailto:imshubham7004@gmail.com">
+    <img src="https://img.shields.io/static/v1?label=&message=Email&color=D14836&style=social&logo=gmail" alt="email" height="32" />
+  </a>
 </p>
 
 <h3 align="left">Architectural Stack & Tools:</h3>
