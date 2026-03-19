@@ -12,25 +12,12 @@
 
 <p align="left"> <a href="https://twitter.com/suvm19" target="blank"><img src="https://img.shields.io/twitter/follow/suvm19?logo=twitter&style=for-the-badge" alt="@suvm19" /></a> </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=CORE+DEPLOYMENT+2026" alt="Header" />
-</p>
-
-<p align="center">
-<a href="https://metricmango.store/">
-<img src="https://img.shields.io/badge/WORKING_ON-MetricMango-000000?style=for-the-badge&logo=shopify&logoColor=96bf48&labelColor=1a1a1a" />
-</a>
-<img src="https://img.shields.io/badge/TECH-GEO_/_AI_LAYERS-000000?style=for-the-badge&logo=google-cloud&logoColor=4285F4&labelColor=1a1a1a" />
-</p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/SYSTEMS-Automation_Expert-000000?style=for-the-badge&logo=fastapi&logoColor=05998B&labelColor=1a1a1a" />
-<img src="https://img.shields.io/badge/CONTACT-Click_to_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a1a" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=svm19&repo=MetricMango&theme=vision-friendly-dark&hide_border=false" alt="MetricMango" />
-</p>
+| <br/> **DEPLOYMENT & FOCUS** <br/> |
+| :--- |
+| 🔹 **WORKING ON:** [MetricMango](https://metricmango.store/) |
+| 🔸 **LEARNING:** Next-gen Search Optimization (GEO) |
+| 🔹 **ASK ME:** Systems & Workflows |
+| 🔸 **CONTACT:** imshubham7004@gmail.com |
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
