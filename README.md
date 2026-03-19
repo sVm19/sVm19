@@ -14,10 +14,36 @@
 
 <img src="https://img.shields.io/badge/DEPLOYMENT_&_FOCUS-000000?style=flat-square&logo=target&logoColor=white" />
 
-- <img src="https://img.shields.io/badge/WORKING_ON-3776AB?style=flat-square&logo=react&logoColor=white" /> **[MetricMango](https://metricmango.store/)**
-- <img src="https://img.shields.io/badge/LEARNING-000000?style=flat-square&logo=rust&logoColor=white" /> **Next-gen Search Optimization (GEO)**
-- <img src="https://img.shields.io/badge/ASK_ME-05998B?style=flat-square&logo=fastapi&logoColor=white" /> **Systems & Workflows**
-- <img src="https://img.shields.io/badge/CONTACT-D14836?style=flat-square&logo=gmail&logoColor=white" /> **imshubham7004@gmail.com**
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1000&color=FFFFFF&width=435&lines=DEPLOYMENT+AND+FOCUS" alt="Heading" />
+</p>
+
+<svg fill="none" width="450" height="180" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        .glass-card {
+          background: rgba(255, 255, 255, 0.03);
+          border: 0.5px solid rgba(255, 255, 255, 0.2);
+          border-radius: 12px;
+          padding: 20px;
+          font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+          color: #e1e4e8;
+          backdrop-filter: blur(10px);
+        }
+        .item { margin-bottom: 12px; display: flex; align-items: center; font-size: 14px; }
+        .label { color: #58a6ff; font-weight: bold; margin-right: 8px; text-transform: uppercase; font-size: 11px; letter-spacing: 1px; }
+        .link { color: #79c0ff; text-decoration: none; }
+      </style>
+      <div class="glass-card">
+        <div class="item"><span class="label">Working On:</span> <strong>MetricMango</strong></div>
+        <div class="item"><span class="label">Learning:</span> Next-gen Search Optimization (GEO)</div>
+        <div class="item"><span class="label">Ask Me:</span> Systems &amp; Workflows</div>
+        <div class="item" style="margin-bottom: 0;"><span class="label">Contact:</span> imshubham7004@gmail.com</div>
+      </div>
+    </div>
+  </foreignObject>
+</svg>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
