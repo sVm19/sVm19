@@ -22,20 +22,28 @@
 </p>
 
 <h3 align="left">Architectural Stack & Tools:</h3>
+
 <p align="left">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-  <img src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
-  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/static/v1?label=&message=Python&color=3776AB&style=social&logo=python" />
+  <img src="https://img.shields.io/static/v1?label=&message=PyTorch&color=EE4C2C&style=social&logo=pytorch" />
+  <img src="https://img.shields.io/static/v1?label=&message=TensorFlow&color=FF6F00&style=social&logo=tensorflow" />
+  <img src="https://img.shields.io/static/v1?label=&message=Rust&color=000000&style=social&logo=rust" />
   
-  <img src="https://img.shields.io/badge/react-%2320232b.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/react_native-%2320232b.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React Native" />
-  
-  <img src="https://img.shields.io/badge/google_cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP" />
-  <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" alt="Firebase" />
-  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres" />
-  <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+  <br />
+
+  <img src="https://img.shields.io/static/v1?label=&message=FastAPI&color=05998B&style=social&logo=fastapi" />
+  <img src="https://img.shields.io/static/v1?label=&message=Node.js&color=339933&style=social&logo=node.js" />
+  <img src="https://img.shields.io/static/v1?label=&message=GCP&color=4285F4&style=social&logo=google-cloud" />
+  <img src="https://img.shields.io/static/v1?label=&message=Firebase&color=FFCA28&style=social&logo=firebase" />
+  <img src="https://img.shields.io/static/v1?label=&message=PostgreSQL&color=4169E1&style=social&logo=postgresql" />
+  <img src="https://img.shields.io/static/v1?label=&message=Redis&color=DC382D&style=social&logo=redis" />
+
+  <br />
+
+  <img src="https://img.shields.io/static/v1?label=&message=Next.js&color=000000&style=social&logo=next.js" />
+  <img src="https://img.shields.io/static/v1?label=&message=React&color=61DAFB&style=social&logo=react" />
+  <img src="https://img.shields.io/static/v1?label=&message=React_Native&color=61DAFB&style=social&logo=react" />
+  <img src="https://img.shields.io/static/v1?label=&message=JavaScript&color=F7DF1E&style=social&logo=javascript" />
 </p>
 
 <h3 align="left">Support:</h3>
