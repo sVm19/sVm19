@@ -54,23 +54,25 @@
   <img src="https://img.shields.io/static/v1?label=&message=JavaScript&color=F7DF1E&style=social&logo=javascript" />
 </p>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://ko-fi.com/suvm19"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ko-fi.com/suvm19" /></a></p><br><br>
-<h3 align="center">📊 System Metrics & Productivity</h3>
+
+<h3 align="center"> System Metrics & Productivity</h3>
 
 <div align="center">
   <table border="0">
     <tr>
       <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=svm19&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark&hide_border=false&border_radius=10&card_width=400" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=svm19&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=false&border_radius=12&card_width=400&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=8b949e&text_color=8b949e" alt="Top Languages" />
       </td>
       <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=svm19&show_icons=true&locale=en&theme=vision-friendly-dark&hide_border=false&border_radius=10&card_width=400" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=svm19&show_icons=true&locale=en&theme=github_dark&hide_border=false&border_radius=12&card_width=400&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=8b949e&text_color=8b949e" alt="GitHub Stats" />
       </td>
     </tr>
   </table>
 </div>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=svm19&theme=vision-friendly-dark&hide_border=false&border_radius=10" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=svm19&theme=github_dark&hide_border=false&border_radius=12&background=0d1117&border=30363d&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakNum=8b949e" alt="GitHub Streak" />
 </p>
+<br><br>
+<h3 align="left">Support:</h3>
+<p><a href="https://ko-fi.com/suvm19"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ko-fi.com/suvm19" /></a></p>
