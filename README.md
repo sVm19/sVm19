@@ -8,10 +8,10 @@
   <img src="https://komarev.com/ghpvc/?username=svm19&label=PROFILE%20VIEWS&color=20232a&style=plastic" alt="svm19" /> 
 </p>
 
-<p align="left"> 
+<p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=svm19&theme=dracula&no-frame=true&no-bg=true&column=6" alt="svm19" />
-  </a> 
+    <img src="https://github-profile-trophy.vercel.app/?username=svm19&theme=dracula&no-frame=true&no-bg=true&margin-w=15" alt="trophies" />
+  </a>
 </p>
 
 <p align="left"> <a href="https://twitter.com/suvm19" target="blank"><img src="https://img.shields.io/twitter/follow/suvm19?logo=twitter&style=for-the-badge" alt="@suvm19" /></a> </p>
@@ -56,7 +56,21 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/suvm19"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ko-fi.com/suvm19" /></a></p><br><br>
+<h3 align="center">📊 System Metrics & Productivity</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=svm19&show_icons=true&locale=en&layout=compact" alt="svm19" /></p>
+<div align="center">
+  <table border="0">
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=svm19&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark&hide_border=false&border_radius=10&card_width=400" alt="Top Languages" />
+      </td>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=svm19&show_icons=true&locale=en&theme=vision-friendly-dark&hide_border=false&border_radius=10&card_width=400" alt="GitHub Stats" />
+      </td>
+    </tr>
+  </table>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=svm19&show_icons=true&locale=en" alt="svm19" /></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=svm19&theme=vision-friendly-dark&hide_border=false&border_radius=10" alt="GitHub Streak" />
+</p>
