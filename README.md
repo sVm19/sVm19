@@ -1,19 +1,23 @@
-<h1 align="center">Hi 👋, I'm Shubham Kumar</h1>
+<h1 align="center">
+  <img src="https://img.shields.io/badge/-SHUBHAM_KUMAR-000000?style=for-the-badge&logo=github&logoColor=white" />
+</h1>
+
 <h3 align="center">Full-Stack Dev & Founder of MetricMango Focusing on Generative Engine Optimization (GEO) and high-performance automation.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=svm19&label=Profile%20views&color=0e75b6&style=flat" alt="svm19" /> </p>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=svm19&label=PROFILE%20VIEWS&color=20232a&style=plastic" alt="svm19" /> 
+</p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=svm19" alt="svm19" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/suvm19" target="blank"><img src="https://img.shields.io/twitter/follow/suvm19?logo=twitter&style=for-the-badge" alt="@suvm19" /></a> </p>
 
-- 🔭 I’m currently working on [MetricMango](https://metricmango.store/)
+<img src="https://img.shields.io/badge/DEPLOYMENT_&_FOCUS-000000?style=flat-square&logo=target&logoColor=white" />
 
-- 🌱 I’m currently learning **Generative Engine Optimization (GEO), Rust,Full-Stack Development & Startups,**
-
-- 💬 Ask me about **AI Search Layer,Modern SaaS Stack,Systems & Automation**
-
-- 📫 How to reach me **imshubham7004@gmail.com**
+- <img src="https://img.shields.io/badge/WORKING_ON-3776AB?style=flat-square&logo=react&logoColor=white" /> **[MetricMango](https://metricmango.store/)**
+- <img src="https://img.shields.io/badge/LEARNING-000000?style=flat-square&logo=rust&logoColor=white" /> **Next-gen Search Optimization (GEO)**
+- <img src="https://img.shields.io/badge/ASK_ME-05998B?style=flat-square&logo=fastapi&logoColor=white" /> **Systems & Workflows**
+- <img src="https://img.shields.io/badge/CONTACT-D14836?style=flat-square&logo=gmail&logoColor=white" /> **imshubham7004@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
