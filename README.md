@@ -2,7 +2,7 @@
   <img src="https://img.shields.io/badge/-SHUBHAM_KUMAR-000000?style=for-the-badge&logo=github&logoColor=white" />
 </h1>
 
-<h3 align="center">Full-Stack Dev & Founder of MetricMango Focusing on Generative Engine Optimization (GEO) and high-performance automation.</h3>
+<h3 align="center">Full-Stack Dev & Architect of MetricMango Focusing on Generative Engine Optimization (GEO) and high-performance automation.</h3>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=svm19&label=PROFILE%20VIEWS&color=20232a&style=plastic" alt="svm19" /> 
